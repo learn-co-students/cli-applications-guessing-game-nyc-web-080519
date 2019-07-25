@@ -137,7 +137,7 @@ rand(20) + 1 #=> Returns a random integer from 1 to 20
 
 We've used [`puts`][puts] in a few labs already for outputting text. For
 capturing user _input_, we use [`gets`][gets].
-
+* 
 ```ruby
 input = gets
 ```
